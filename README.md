@@ -1,1 +1,2 @@
 # Bank-Loan-Analysis-Project
+This project involved analyzing the bank's loan data using MS Excel, PowerBI, Tableau, and SQL. We cleaned, and analyzed the data to uncover insights. Our approach included EDA, statistical analysis, and SQL queries. We created interactive dashboards and a PowerPoint presentation summarizing key findings and recommendations for optimizing loan processes and minimizing risks. Thank you.
